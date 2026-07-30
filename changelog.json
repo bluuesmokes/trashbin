@@ -1,13 +1,15 @@
 {
   "channelUrl": "https://t.me/showcarrd",
   "changelogs": [
-    
-       {
+    {
       "versionCode": 1,
       "versionName": "0.1",
-      "title": "What's new",
+      "title": "What's new in 0.1",
       "items": [
         "Initial release",
+        "Added centered UI for one-handed use",
+        "Implemented Material You settings persistence",
+        "Added remote changelog support"
       ]
     }
   ]
