@@ -1,0 +1,14 @@
+{
+  "channelUrl": "https://t.me/showcarrd",
+  "changelogs": [
+    
+       {
+      "versionCode": 1,
+      "versionName": "0.1",
+      "title": "What's new",
+      "items": [
+        "Initial release",
+      ]
+    }
+  ]
+}
