@@ -2,8 +2,8 @@
   "channelUrl": "https://t.me/showcarrd",
   "changelogs": [
     {
-      "versionCode": 1,
-      "versionName": "0.1",
+      "versionCode": 3,
+      "versionName": "3.7",
       "title": "What's new in 0.1",
       "items": [
         "Initial release. Since its the first release, bugs can be expected. If encountering, please report.",
